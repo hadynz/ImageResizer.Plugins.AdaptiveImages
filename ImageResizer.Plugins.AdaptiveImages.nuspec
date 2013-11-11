@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>ImageResizer.Plugins.AdaptiveImages</id>
+        <version>1.0.0</version>
+        <title>ImageResizer.Plugins.AdaptiveImages</title>
+        <authors>Hady Osman</authors>
+        <owners>hadynz</owners>
+        <licenseUrl>http://imageresizing.net/licenses/trial</licenseUrl>
+        <projectUrl>http://imageresizing.net</projectUrl>
+        <iconUrl>http://imageresizing.net/images/logos/ImageIconPSD100.png</iconUrl>
+        <requireLicenseAcceptance>true</requireLicenseAcceptance>
+        <description>Adaptive Images detects your visitor's screen size and automatically creates and delivers device appropriate re-scaled versions of your web page's embeded HTML images. No mark-up changes needed. It is intended for use with Responsive Designs and to be combined with Fluid Image techniques.
+
+Why? Because your site is being increasingly viewed on smaller, slower, low bandwidth devices. On those devices your desktop-centric images load slowly, cause UI lag, and cost you and your visitors un-necessary bandwidth and money. Adaptive Images fixes that.
+
+Inspiration: http://www.adaptive-images.com/
+Support: http://www.twitter.com/hadynz</description>
+        <summary>Adaptive Images detects your visitor's screen size and automatically creates &amp; delivers device appropriate re-scaled versions of your web page's embeded images. No mark-up changes needed.</summary>
+        <tags>RWD Responsive AdaptiveImages ImageResizer Resizer Images</tags>
+        <dependencies>
+            <dependency id="ImageResizer" />
+        </dependencies>
+    </metadata>
+</package>
